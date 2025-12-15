@@ -42,10 +42,10 @@ export function AppFooter() {
           <p className="text-slate-400 text-sm">© 2025/2026 Cours Bac. Tous droits réservés. Selim Smaali</p>
           <div className="flex gap-6">
             
-            <a href="#" className="text-slate-400 hover:text-white transition-colors">
+            <a href="linkedin.com/in/selim-smaali-43680a292" className="text-slate-400 hover:text-white transition-colors">
               LinkedIn
             </a>
-            <a href="#" className="text-slate-400 hover:text-white transition-colors">
+            <a href="github.com/selim8437" className="text-slate-400 hover:text-white transition-colors">
               GitHub
             </a>
           </div>
