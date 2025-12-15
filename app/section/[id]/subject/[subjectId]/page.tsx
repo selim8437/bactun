@@ -25,7 +25,7 @@ const LESSONS_DATA: Record<
 > = {
   maths: {
     Maths: {
-      name: "Maths",
+      name: "Math",
       lessons: [
         {
           id: "l1",
