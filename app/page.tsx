@@ -25,7 +25,7 @@ export default function Home() {
             <h1 className="text-4xl font-bold">Bac Tunisie</h1>
           </div>
           <p className="text-blue-100 text-lg">
-            Accédez à tous les cours pour votre année de baccalaureat, tout les eleves doit avoir le cours gratuitement 
+            Accédez à tous les cours pour votre année de baccalaureat, tout les eleves doit avoir le cours gratuitement.
           </p>
         </div>
       </div>
