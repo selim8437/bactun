@@ -39,6 +39,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="fr">
+      <head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3841950769318476"
+     crossOrigin="anonymous"></script></head>
       <body className={`font-sans antialiased`}>
         <div className="flex flex-col min-h-screen">
           <AppHeader />
